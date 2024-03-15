@@ -29,7 +29,7 @@ Submit a pull request, clearly describing the purpose and scope of your contribu
 Be open to feedback and willing to collaborate with others to improve the quality of contributions.
 Together, let's explore the exciting possibilities at the intersection of finance and data science and unlock new insights into the world of quantitative finance.
 
-C## ontact:
+## ontact:
 If you have any questions, suggestions, or feedback regarding this repository, please feel free to reach out to us. Your input is highly valued, and we're committed to making this repository a valuable resource for the community.
 
 Happy exploring!
